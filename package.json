@@ -1,0 +1,31 @@
+{
+  "name": "sort-github-user-repos",
+  "version": "1.0.0",
+  "description": "Sort GitHub repositories by stars for user.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IonicaBizau/sort-github-user-repos.git"
+  },
+  "keywords": [
+    "sort",
+    "github",
+    "user",
+    "repos"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/sort-github-user-repos/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/sort-github-user-repos#readme",
+  "dependencies": {
+    "gh.js": "^2.3.0"
+  },
+  "devDependencies": {
+    "emojic": "^1.0.0"
+  }
+}
