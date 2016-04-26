@@ -1,14 +1,18 @@
+
 # sort-github-user-repos [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/sort-github-user-repos.svg)](https://www.npmjs.com/package/sort-github-user-repos) [![Downloads](https://img.shields.io/npm/dt/sort-github-user-repos.svg)](https://www.npmjs.com/package/sort-github-user-repos) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Sort GitHub repositories by stars for user.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save sort-github-user-repos
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 const sortGhRepos = require("sort-github-user-repos")
@@ -67,7 +71,8 @@ sortGhRepos("alysonla", (err, repos) => {
 // 0 ⭐ alysonla/httparty
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `sortByStars(username, token, callback)`
 Sorts the user repos by stars.
@@ -80,13 +85,13 @@ Sorts the user repos by stars.
 #### Return
 - **gh.js** The `gh.js` instance.
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
-If you are using this library in one of your projects, add it in this list. :sparkles:
 
-## License
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
