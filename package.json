@@ -1,6 +1,6 @@
 {
   "name": "sort-github-user-repos",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Sort GitHub repositories by stars for user.",
   "main": "lib/index.js",
   "scripts": {
