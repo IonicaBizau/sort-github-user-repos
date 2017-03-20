@@ -1,6 +1,6 @@
 {
   "name": "sort-github-user-repos",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Sort GitHub repositories by stars for user.",
   "main": "lib/index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "user",
     "repos"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/sort-github-user-repos/issues"
@@ -32,12 +32,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
