@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Sorts the user repos by stars.
 
 #### Params
+
 - **String** `username`: The GitHub username.
 - **String** `token`: An optional access token.
 - **Function** `callback`: The callback function.
