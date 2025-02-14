@@ -1,6 +1,6 @@
 {
   "name": "sort-github-user-repos",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Sort GitHub repositories by stars for user.",
   "main": "lib/index.js",
   "scripts": {
@@ -39,6 +39,8 @@
     "menu/",
     "cli.js",
     "index.js",
+    "index.d.ts",
+    "package-lock.json",
     "bloggify.js",
     "bloggify.json",
     "bloggify/"
